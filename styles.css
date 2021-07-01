@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&display=swap');
+
+.my_image{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-top: 15px;
+}
+.header{
+  display: flex;
+  align-items: center;
+}
+.middle{
+    flex: 1;
+    margin-left: 20px;
+}
+body{
+    font-family:"Roboto+Mono", monospace ;
+    max-width: 50%;
+    margin: auto;
+    color: #222
+   
+
+}
+.name{
+    color: gray;
+}
+.coral{
+    color: coral;
+}
+.hrline{
+    border: 1px solid coral;
+}
+.table-align{
+    min-width: 300px;
+    font-size: 22px;
+    display: block;
+    margin-top: 20px;
+    
+}
+.fsize {
+    font-size: 18px;
+    margin-top: 20px;
+    line-height: 25px;
+}
+.fsize1{
+    line-height: 15px;
+    font-size: 13px;}
+.table-discription
+    {
+        margin-top: 10px;
+    }
